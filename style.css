@@ -74,6 +74,9 @@ header{
 #navbarNav a:hover {
     color: var(--primary-hover);
 }
+.icon-toggler{
+    color: var(--text);
+}
 
 #navbarNav a.active {
     color: var(--primary-hover);
@@ -330,9 +333,6 @@ header{
     color: var(--text);
 }
 
-
-
-
 @media (min-width: 992px) {
 
 
@@ -350,7 +350,7 @@ header{
 .skills {
     padding: 0px;
 }
-.change-light{
+.change-light {
     display: none;
 }
 .contact {
