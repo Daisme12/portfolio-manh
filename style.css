@@ -148,6 +148,9 @@ header{
     border: 1px solid var(--border);
     border-radius: 12px;
 }
+.edu-card:hover{
+    background-color: var(--border);
+}
 
 .edu-logo {
     width: 38px;
