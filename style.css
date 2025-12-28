@@ -340,6 +340,11 @@ header{
 
 
 }
+@media (max-width: 1240px) {
+.change-light a{
+    display: none;
+}
+}
 @media (max-width: 991.98px) {
 header{
     padding:0px ;
@@ -363,6 +368,4 @@ header{
     padding: 0px ;
 
 }
-
-
 }
